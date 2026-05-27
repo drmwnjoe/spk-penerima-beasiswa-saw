@@ -1,0 +1,29 @@
+Tabel Data Usulan Penerima Beasiswa,,,,,,,,
+No,NIM,Nama Mahasiswa,Alamat,IPK,Semester,Pekerjaan Orang Tua,Penghasilan Orang Tua,Jumlah Tanggungan Orang Tua
+1,STI202502,Odin Pratama,Lotim,3.60,VI,IRT,Rp. 1.200.000,5
+2,STI202503,Agus Salim,Sumbawa,3.50,VI,PNS Guru,Rp. 1.012.150,3
+3,STI202504,Rudi Hadi,Mataram,3.33,IV,IRT/Kakaknya tentara,Rp. 450.000,3
+4,STI202505,Habibuzzahman,Dompu,3.50,II,"PNS Guru, Ibu Bapak",Rp. 4.620.100,3
+5,STI202506,Baiq Nadia,Loteng,3.24,VI,PNS Statistik,Rp. 1.019.000,3
+6,STI202507,Lalu Sofiyan ,Lotim,3.72,II,Wiraswasta,Rp.500.000,2
+7,STI202508,Efendi Dharmawan,Lotim,3.92,II,Wiraswata,Rp.2.200.000,3
+8,STI202509,Eka Sukmawati,Mataram,3.72,IV,Buruh Tani,Rp.750.000,2
+9,STI202510,Riska Novianti,Bima,3.29,IV,Nelayan,Rp.500.000,3
+10,STI202511,Imam Takarrubi ,Dompu,3.64,II,Pensiunan PNS,Rp. 3.206.400,2
+11,STI202512,Bili Takarrubi,Lobar,3.62,VI,Wiraswata,Rp. 2.000.000,4
+12,STI202513,Muhammad Syair,Mataram,3.62,VI,Tani ,Rp. 500.000,3
+13,STI202514,Azmi,Loteng,3.42,VI,Wiraswasta,Rp. 1.750.000,4
+14,STI202515,Wildan Ahmad,Loteng,3.54,VI,Wiraswasta,Rp. 1.500.000,5
+15,STI202516,Siti Rohana,Lotim,3.44,VI,PNS,Rp. 4.011.204,4
+16,STI202517,Ninsi Putriyani,Dompu,3.00,VI,Wiraswata,Rp. 600.000,4
+17,STI202518,Burhanudin,Bima,3.47,II,"PNS, Ibu Bpk",Rp. 3.357.900,2
+18,STI202519,Ayu Lestari,Bima,3.29,VI,PNS,Rp. 1.527.930,4
+19,STI202520,Fania Alfondo,Sumbawa,3.56,II,Petani,Rp.1.000.000,3
+20,STI202521,Tri Wahyani,Mataram,3.42,II,DPR. Kab.Sumbawa Besar,Rp.4.668.976,5
+21,STI202522,Lalu Rahman,Mataram,3.58,II,Pensiunan PNS,Rp.1.071.500,1
+22,STI202523,Sukmawati,Dompu,3.09,VI,Petani,Rp. 900.000,2
+23,STI202524,Kurniati,Bima,3.19,IV,Petani,Rp. 750.000,4
+24,STI202525,Sudianto,Lobar,3.22,II,Pegawai Swasta,Rp. 1.200.000,1
+25,STI202526,Ahmad,Lobar,3.42,IV,"PNS, Ibu Bpknya",Rp. 1.910.900,2
+26,STI202527,Hairul Anam,Bima,3.72,II,PNS,Rp. 3.327.200,1
+27,STI202528,Ahmad Baihaki,Mataram,3.43,IV,Pedagang,Rp. 900.000,5
